@@ -1,5 +1,4 @@
 from lxml import html
-from numpy import double
 import requests
 import csv
 
